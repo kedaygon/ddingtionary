@@ -1,0 +1,14 @@
+Third-Party Data Notice
+=======================
+
+This project retrieves Wuthering Waves data from the following publicly available repository:
+
+https://github.com/Arikatsu/WutheringWaves_Data
+
+The data is retrieved from the original repository at runtime and is not bundled or redistributed with this project.
+
+The Wuthering Waves game, its characters, names, text, game data, assets, and other related content are the property of their respective rights holders, including Kuro Games.
+
+This project is an unofficial fan-made tool and is not affiliated with, endorsed by, or sponsored by Kuro Games or Arikatsu.
+
+This notice does not grant any additional rights to the third-party data or Wuthering Waves game content.
